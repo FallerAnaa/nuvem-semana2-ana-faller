@@ -3,8 +3,8 @@
 # Nuvem semana 2 - Atividade complementar 
 
 ## Links 
-- Repositório:
-- GitHub Pages:
+- Repositório: https://github.com/FallerAnaa/nuvem-semana2-ana-faller
+- GitHub Pages: https://falleranaa.github.io/nuvem-semana2-ana-faller/
 
 ## O que foi feito
  - Aplicação para mostrar o clima de uma determinada cidade através da utilização de APIs.
